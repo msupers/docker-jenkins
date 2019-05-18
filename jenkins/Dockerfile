@@ -1,4 +1,4 @@
-FROM jenkins:2.164.3
+FROM jenkins:2.164.2
 #FROM jenkins:2.19.2
 MAINTAINER Li Yi <denverdino@gmail.com>
 USER root
